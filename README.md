@@ -11,3 +11,7 @@ Download this software as a zip (or clone it), run the installation file and spe
 If you need any help, please do contact me on Discord!
 
 randombeans™#7916
+
+# IMPORTANT
+
+This software cannot be edited in any way shape or form, and you must credit the application when publishing your book for public reading. If you want to credit the application, go into Manage Book, and change the planned demographic to Non-Commercial Public or Commercial. On the front matter, a line will be added crediting this software. Attempting to remove the credits will result in a breach of the terms of service.
