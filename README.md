@@ -10,7 +10,7 @@ Download this software as a zip (or clone it), run the installation file and spe
 
 # Support
 
-* *Note: This software is in a work in progress, you'll expect some errors along the way.* * 
+*Note: This software is in a work in progress, you'll expect some errors along the way.*
 
 If you need any help, please do contact me on Discord!
 randombeans™#7916
