@@ -4,12 +4,15 @@ Imaginator Studio is a software used for developing and publishing books of all 
 
 # How to install
 
+
+
 Download this software as a zip (or clone it), run the installation file and specify a location you wish for it to be installed, and you can easily begin creating your first book!
 
 # Support
 
-If you need any help, please do contact me on Discord!
+* *Note: This software is in a work in progress, you'll expect some errors along the way.* * 
 
+If you need any help, please do contact me on Discord!
 randombeans™#7916
 
 Report any bugs into Issues.
